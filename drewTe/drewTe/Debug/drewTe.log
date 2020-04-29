@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/4/23 21:34:52。
+     1>项目“C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\drewTe\drewTe.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\drewTe.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\drewTe.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt drewTeView.cpp
+         drewTeView.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\Debug\drewTe.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\drewTe.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\Debug\drewTe.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\Debug\drewTe.lib" /MACHINE:X86 Debug\drewTe.res
+         Debug\drewTe.exe.embed.manifest.res
+         Debug\drewTe.obj
+         Debug\drewTeDoc.obj
+         Debug\drewTeView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\drewTe.exe.embed.manifest" /manifest Debug\drewTe.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         drewTe.vcxproj -> C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\Debug\drewTe.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\drewTe.unsuccessfulbuild”。
+         正在对“Debug\drewTe.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\任蕾\documents\visual studio 2010\Projects\drewTe\drewTe\drewTe.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.06
